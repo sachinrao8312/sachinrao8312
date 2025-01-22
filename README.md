@@ -17,10 +17,7 @@ Hello, I'm Sachin Rao, a passionate and dynamic software engineer with a strong 
 - **Description**: A mobile app specifically made to help UPSC students reference the Indian Constitution. It's free with no advertisements and has achieved 100+ organic downloads on the Play Store.
 - **GitHub**: [IndianConstitutionApp Playstore link]([https://github.com/sachinrao8312/IndianConstitutionApp](https://play.google.com/store/apps/details?id=biz.sachinrao.indianconstitution&hl=en_IN&gl=US))
 
-### Sachin Rao (YT)
 
-- **Tools**: Canva, Kinemaster, Filmora
-- **Description**: I successfully grew a gaming channel to 12,000 subscribers with 1.1 million+ views before the Jio boom. This venture helped me earn some pocket money and allowed me to buy a phone for my dad and a laptop for myself.
 
 ## Skills
 

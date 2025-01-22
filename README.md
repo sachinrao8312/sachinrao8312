@@ -21,12 +21,12 @@ Hello, I'm Sachin Rao, a passionate and dynamic software engineer with a strong 
 
 ## Skills
 
-- **Languages**: C++, Java, Python, C, JavaScript
+- **Languages**: Java, Python, JavaScript
 - **Technologies**: Native Android, Web Development with Python (HTML5, CSS, Bootstrap)
-- **Frameworks**: Flask, Vue
+- **Frameworks**: Flask
 - **Databases**: SQL, SQLite
 - **Developer Tools**: VS Code, Notepad++, Android Studio, Docker
-- **Tooling**: Git, GitHub, Ubuntu, Linux, AdobeXD, Canva, CI/CD (Jenkins), XML, MS Office - Excel, Word, PowerPoint, Outlook, API Integration (GET & POST)
+- **Tooling**: Git, GitHub, Ubuntu, Linux, AdobeXD, Canva, CI/CD (Jenkins), XML, API Integration
 - **Soft Skills**: Communication skills, Scheduling, Time-management skills, Project management, Product-oriented thinker, Analytical thinking, Ability to work independently, Flexibility
 
 ## Languages

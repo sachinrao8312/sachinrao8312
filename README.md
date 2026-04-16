@@ -3,10 +3,10 @@
 ## Skills
 
 - **Languages**: JavaScript,Python,Java
-- **Technologies**: Native Android Dev, React native, NextJS
+- **Technologies**: Native Android Dev, React native, NextJS, 
 - **Databases**: SQL, SQLite
 - **Developer Tools**: VS Code, Notepad++, Android Studio, Docker
-- **Tooling**: Git, GitHub, Ubuntu, Linux, AdobeXD, Canva, CI/CD (Jenkins), XML, API Integration
+- **Tooling**: Git, GitHub, Ubuntu, Linux, AdobeXD, Canva, CI/CD (Jenkins), XML, API Integration, MCP , ComfyUI, 
 
 ## Languages
 
